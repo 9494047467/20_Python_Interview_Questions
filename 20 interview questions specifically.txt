@@ -1,0 +1,42 @@
+20 interview questions specifically focused on data types, operators, conditional statements, looping statements, and functions in Python:
+
+Data Types:
+
+1. What are the built-in data types in Python?
+2. Explain the difference between lists and tuples in Python.
+3. How do you convert one data type to another in Python?
+4. What is the purpose of dictionaries in Python?
+5. What is the difference between shallow copy and deep copy in Python?
+
+Operators:
+
+1. What are the different types of operators in Python?
+2. Explain the difference between '==' and 'is' operators in Python.
+3. How do you perform exponentiation in Python?
+4. What are the bitwise operators in Python, and how are they used?
+5. How does the 'in' operator work in Python?
+
+Conditional Statements:
+
+1. What are the different types of conditional statements in Python?
+2. Explain the difference between if, elif, and else statements.
+3. How do you use the ternary operator in Python?
+4. What is the purpose of the 'pass' statement in Python?
+5. How do you handle multiple conditions using logical operators in Python?
+
+Looping Statements:
+
+1. What are the different types of loops in Python?
+2. Explain the difference between 'while' and 'for' loops in Python.
+3. How do you exit a loop prematurely using the 'break' statement?
+4. What is the purpose of the 'continue' statement in Python loops?
+5. How do you iterate over elements and indices simultaneously in a loop?
+
+Functions:
+
+1. What is a function in Python?
+2. How do you define and call a function in Python?
+3. Explain the difference between positional and keyword arguments in Python functions.
+4. What are lambda functions in Python, and how are they used?
+5. How do you return multiple values from a function in Python?
+
